@@ -189,6 +189,18 @@ development workflows.
 - 🔹 EventHub
 
 ---
+### 🔐 Cybersecurity Intern — ThunderChiper
+
+Worked on cybersecurity concepts and practical security-focused tasks,
+developing an understanding of secure systems, threat awareness, and
+fundamental cybersecurity practices.
+
+**Focus Areas:**
+- 🔹 Cybersecurity fundamentals
+- 🔹 Security analysis and threat awareness
+- 🔹 Network and system security
+- 🔹 Practical security concepts
+- 🔹 Problem-solving through security challenges
 
 ## 🏆 Hackathons & Technical Activities
 
