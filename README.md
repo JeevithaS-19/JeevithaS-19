@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jeevitha S 👋</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | AI/ML | Full-Stack Development
+Computer Science Engineering Student • AI/ML • Full-Stack Development
 </h3>
 
 <p align="center">
@@ -22,83 +22,133 @@ Computer Science Engineering Student | AI/ML | Full-Stack Development
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-I'm a **Computer Science Engineering student** passionate about building
-practical software solutions across **Artificial Intelligence, Machine
-Learning, Full-Stack Development, and Data Science**.
+I'm a **Computer Science Engineering student** focused on building
+practical applications across **AI/ML, Full-Stack Development,
+and Data Science**.
 
-I enjoy turning ideas into working applications, learning through
-real-world projects, and continuously strengthening my problem-solving
-and software engineering skills.
+I enjoy turning ideas into working software, solving real-world
+problems through technology, and learning by building.
 
-- 🎓 Computer Science Engineering Student
-- 🤖 Exploring AI/ML & Generative AI
-- 💻 Full-Stack Development
-- 🧠 Practicing Data Structures & Algorithms
+- 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
+- 💻 Building full-stack web applications and REST APIs
+- 🧠 Strengthening Data Structures & Algorithms
 - 📊 Exploring Data Science and Machine Learning
-- 🔐 Exploring Cybersecurity
-- 🚀 Building projects and participating in hackathons
-- 🌱 Always learning, experimenting, and improving
+- 🔐 Exploring Cybersecurity and secure systems
+- 🚀 Participating in hackathons and technical challenges
+- 🌱 Continuously learning through projects and industry experience
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,js" alt="Programming Languages"/>
-</p>
-
-### 🎨 Frontend Development
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=python,c,java,js" alt="Python C Java JavaScript"/>
 </p>
 
-### ⚙️ Backend & APIs
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="HTML CSS React Tailwind"/>
 </p>
 
-### 🤖 AI / ML & Data Science
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js Express FastAPI"/>
+</p>
+
+### AI / Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Generative AI"/>
 </p>
 
-### 🗄️ Databases
+### Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" alt="Databases"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,github,vscode,jupyter" alt="MongoDB PostgreSQL Git GitHub VS Code Jupyter"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🤖 **[ResumePilot AI](https://github.com/JeevithaS-19/ResumePilot-AI)** | AI-powered resume analysis and job-matching platform with ATS scoring, skill detection, personalized recommendations, authentication, and analysis history. | TypeScript • AI • Full-Stack |
-| 🛣️ **[RoadLens AI](https://github.com/JeevithaS-19/RoadLens-AI)** | AI-powered platform for road damage detection, risk analysis, and civic response. | Python • AI/ML |
-| 📋 **[TaskFlow API](https://github.com/JeevithaS-19/TaskFlow-API)** | RESTful task management backend focused on structured task and productivity management. | Node.js • Express • MongoDB |
-| 🎯 **[SkillSync](https://github.com/JeevithaS-19/SkillSync)** | Responsive learning and project dashboard for tracking skills, tasks, projects, and progress. | HTML • CSS • JavaScript |
-| 📅 **[EventHub](https://github.com/JeevithaS-19/EventHub)** | Full-stack event management application built around backend APIs and database integration. | Node.js • Express • MongoDB |
+### 🤖 [ResumePilot AI](https://github.com/JeevithaS-19/ResumePilot-AI)
+
+**AI-powered resume analysis and job-matching platform.**
+
+- 🎯 ATS scoring
+- 🔎 Skill detection
+- 💡 Personalized recommendations
+- 🔐 Authentication
+- 📊 Analysis history
+
+**Tech:** TypeScript • AI • Full-Stack
+
+---
+
+### 🛣️ [RoadLens AI](https://github.com/JeevithaS-19/RoadLens-AI)
+
+**AI-powered platform for road damage detection, risk analysis,
+and civic response.**
+
+- 👁️ Computer Vision
+- 🛣️ Road damage detection
+- ⚠️ Risk assessment
+- 🏙️ Civic response
+
+**Tech:** Python • AI/ML
+
+---
+
+### 📋 [TaskFlow API](https://github.com/JeevithaS-19/TaskFlow-API)
+
+**RESTful task management backend focused on structured
+task and productivity management.**
+
+- 🔗 REST API architecture
+- 📌 Task management
+- 🗄️ MongoDB integration
+- ⚙️ Backend development
+
+**Tech:** Node.js • Express • MongoDB
+
+---
+
+### 🎯 [SkillSync](https://github.com/JeevithaS-19/SkillSync)
+
+**Responsive learning and project dashboard for tracking
+skills, tasks, projects, and progress.**
+
+- 📈 Progress tracking
+- ✅ Task management
+- 🔎 Project filtering
+- 💾 LocalStorage persistence
+- 🌙 Light/Dark theme
+- 📱 Responsive UI
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 📅 [EventHub](https://github.com/JeevithaS-19/EventHub)
+
+**Full-stack event management application built with
+backend APIs and database integration.**
+
+**Tech:** Node.js • Express • MongoDB
 
 ---
 
@@ -118,9 +168,7 @@ and modern development workflows.
 - 🎯 **SkillSync** — Interactive learning and project dashboard
 - 📅 **EventHub** — Full-stack event management application
 
-**Focus Areas**
-
-`REST APIs` `Backend Development` `MongoDB` `Full-Stack Development` `Software Engineering`
+**Focus:** REST APIs • Backend Development • MongoDB • Full-Stack Development
 
 ---
 
@@ -145,11 +193,11 @@ security awareness, and fundamental cybersecurity practices.
 - 🚀 **Smart India Hackathon (SIH)**
 - 💡 **Prompt Battle Hackathon**
 - 🏗️ **Innovitus Hackathon**
-- 🔐 **Capture The Flag (CTF) Competitions**
+- 🔐 **Capture The Flag Competitions**
 - 💻 Technical projects and coding challenges
 
-> I enjoy working on problem statements that combine
-> technology, innovation, and real-world impact.
+I enjoy working on problems that combine
+**technology, innovation, and real-world impact.**
 
 ---
 
