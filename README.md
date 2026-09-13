@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Jeevitha S 👋</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | AI/ML | Full-Stack Development
+Computer Science Engineering Student • AI/ML • Full-Stack Development
 </h3>
 
 <p align="center">
-  Building intelligent applications, solving real-world problems, and turning ideas into working software.
+  <b>Building practical software, exploring AI, and solving real-world problems.</b>
 </p>
 
 <p align="center">
@@ -24,46 +24,45 @@ Computer Science Engineering Student | AI/ML | Full-Stack Development
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science Engineering student passionate about building
-practical software solutions across **Artificial Intelligence,
-Machine Learning, Full-Stack Development, and Data Science**.
+I'm a **Computer Science Engineering student** interested in building
+practical applications across **Artificial Intelligence, Machine Learning,
+Full-Stack Development, and Data Science**.
 
-I enjoy transforming ideas into functional applications, learning through
-real-world projects, and continuously strengthening my problem-solving
-and software engineering skills.
+I enjoy turning ideas into working software, learning through hands-on
+projects, and continuously improving my problem-solving and engineering skills.
 
 - 🎓 Computer Science Engineering Student
-- 🤖 Interested in AI/ML & Generative AI
-- 💻 Full-Stack Development
+- 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
+- 💻 Building Full-Stack Web Applications
 - 🧠 Practicing Data Structures & Algorithms
 - 📊 Exploring Data Science and Machine Learning
-- 🚀 Building projects and participating in hackathons
-- 🔐 Exploring Cybersecurity
-- 🌱 Always learning, experimenting, and improving
+- 🔐 Developing an interest in Cybersecurity
+- 🚀 Participating in hackathons and technical challenges
+- 🌱 Continuously learning, building, and improving
 
 ---
 
 ## ⚡ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,java,js" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend & API Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### 🤖 AI / Data Science
+### 🤖 AI / ML & Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
@@ -74,8 +73,6 @@ and software engineering skills.
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
@@ -99,42 +96,58 @@ and software engineering skills.
 
 <td width="50%" valign="top">
 
-### 🤖 ResumePilot AI
+<h3>🤖 ResumePilot AI</h3>
 
-AI-powered resume analysis and job-matching platform.
+<p>
+AI-powered resume analysis and job-matching platform designed
+to help users understand their resumes and improve their
+job-search preparation.
+</p>
 
-**Highlights**
-- 🎯 ATS scoring
-- 🔎 Skill detection
-- 💡 Personalized recommendations
-- 🔐 Authentication
-- 📊 Analysis history
+<b>Highlights</b>
 
-**Tech:** TypeScript · AI · Full-Stack
+<ul>
+<li>🎯 ATS scoring</li>
+<li>🔎 Skill detection</li>
+<li>💡 Personalized recommendations</li>
+<li>🔐 Authentication</li>
+<li>📊 Analysis history</li>
+</ul>
+
+<b>Tech:</b> TypeScript • AI • Full-Stack
+
+<br><br>
 
 <a href="https://github.com/JeevithaS-19/ResumePilot-AI">
-View Repository →
+  <b>View Repository →</b>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛣️ RoadLens AI
+<h3>🛣️ RoadLens AI</h3>
 
-AI-powered platform for road damage detection,
-risk analysis, and civic response.
+<p>
+AI-powered platform focused on road damage detection,
+risk analysis, and technology-assisted civic response.
+</p>
 
-**Focus**
-- 👁️ Computer Vision
-- 🛣️ Road damage analysis
-- ⚠️ Risk assessment
-- 🏙️ Civic response
+<b>Focus Areas</b>
 
-**Tech:** Python · AI/ML
+<ul>
+<li>👁️ Computer Vision</li>
+<li>🛣️ Road damage detection</li>
+<li>⚠️ Risk assessment</li>
+<li>🏙️ Civic response</li>
+</ul>
+
+<b>Tech:</b> Python • AI/ML
+
+<br><br>
 
 <a href="https://github.com/JeevithaS-19/RoadLens-AI">
-View Repository →
+  <b>View Repository →</b>
 </a>
 
 </td>
@@ -145,44 +158,58 @@ View Repository →
 
 <td width="50%" valign="top">
 
-### 📋 TaskFlow API
+<h3>📋 TaskFlow API</h3>
 
-RESTful task management backend designed for
-structured task and productivity management.
+<p>
+RESTful backend for structured task and productivity
+management with a focus on API-driven application design.
+</p>
 
-**Highlights**
-- 🔗 REST API
-- 📌 Task management
-- 🗄️ Database integration
-- ⚙️ Backend architecture
+<b>Highlights</b>
 
-**Tech:** Node.js · Express · MongoDB · REST API
+<ul>
+<li>🔗 REST API architecture</li>
+<li>📌 Task management</li>
+<li>🗄️ Database integration</li>
+<li>⚙️ Backend development</li>
+</ul>
+
+<b>Tech:</b> Node.js • Express • MongoDB • REST API
+
+<br><br>
 
 <a href="https://github.com/JeevithaS-19/TaskFlow-API">
-View Repository →
+  <b>View Repository →</b>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎯 SkillSync
+<h3>🎯 SkillSync</h3>
 
-Responsive learning and project dashboard for
-tracking skills, tasks, projects, and progress.
+<p>
+Responsive learning and project dashboard for tracking
+skills, tasks, projects, and personal progress.
+</p>
 
-**Features**
-- 📈 Progress tracking
-- ✅ Task management
-- 🔎 Project filtering
-- 💾 LocalStorage persistence
-- 🌙 Light/Dark theme
-- 📱 Responsive UI
+<b>Features</b>
 
-**Tech:** HTML · CSS · JavaScript
+<ul>
+<li>📈 Progress tracking</li>
+<li>✅ Task management</li>
+<li>🔎 Project filtering</li>
+<li>💾 LocalStorage persistence</li>
+<li>🌙 Light/Dark theme</li>
+<li>📱 Responsive interface</li>
+</ul>
+
+<b>Tech:</b> HTML • CSS • JavaScript
+
+<br><br>
 
 <a href="https://github.com/JeevithaS-19/SkillSync">
-View Repository →
+  <b>View Repository →</b>
 </a>
 
 </td>
@@ -202,19 +229,16 @@ Worked on practical software development projects involving
 backend APIs, full-stack applications, database integration,
 and modern development workflows.
 
-**Projects worked on:**
+**Projects**
 
 - 📋 **TaskFlow API** — RESTful backend and API development
-- 🎯 **SkillSync** — Frontend application and interactive dashboard
+- 🎯 **SkillSync** — Interactive frontend dashboard
 - 📅 **EventHub** — Full-stack event management application
 
 **Focus Areas**
 
-- REST API development
-- Backend development
-- Database integration
-- Full-stack application development
-- Software development workflows
+`REST APIs` `Backend Development` `Database Integration`
+`Full-Stack Development` `Software Engineering`
 
 ---
 
@@ -222,28 +246,28 @@ and modern development workflows.
 
 Worked on cybersecurity concepts and practical security-focused
 tasks, developing an understanding of secure systems,
-threat awareness, and fundamental cybersecurity practices.
+security awareness, and fundamental cybersecurity practices.
 
 **Focus Areas**
 
 - 🔒 Cybersecurity fundamentals
-- 🛡️ Security analysis and threat awareness
+- 🛡️ Security concepts and practices
+- 🔍 Security analysis and threat awareness
 - 🌐 Network and system security
-- 🔍 Practical security concepts
 - 🧩 Security-focused problem solving
 
 ---
 
 ## 🏆 Hackathons & Technical Activities
 
-- 🚀 **Smart India Hackathon (SIH)**
+- 🚀 **Smart India Hackathon**
 - 💡 **Prompt Battle Hackathon**
 - 🏗️ **Innovitus Hackathon**
-- 🔐 **Capture The Flag (CTF) Competitions**
+- 🔐 **Capture The Flag Competitions**
 - 💻 Technical projects and coding challenges
 
-I enjoy working on problem statements that combine
-**technology, innovation, and real-world impact.**
+> I enjoy working on problems that combine technology,
+> innovation, and real-world impact.
 
 ---
 
@@ -254,4 +278,5 @@ I enjoy working on problem statements that combine
 🌱 Learning Generative AI, Machine Learning, and DSA
 💻 Strengthening backend and software engineering skills
 🚀 Exploring hackathons and real-world problem solving
+🔐 Expanding my understanding of cybersecurity
 🎯 Preparing for software engineering opportunities
